@@ -1,4 +1,4 @@
-# Rental Property Management System
+# Rental Property Management System -Polyglot Persistence-
 
 This project is a rental property management system that uses both SQL Server and MongoDB databases to manage various operations related to rental properties. The application allows property owners to register, list, and update their properties, while customers can search for properties, book appointments to view them, and submit rental applications.
 
